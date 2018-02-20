@@ -20,3 +20,10 @@
 	padding-right: 10px;
 	padding-bottom: 10px;
 }
+
+#shadow {
+	box-shadow:  0px 10px 10px rgba(0,0,0,0.12), 0px 10px 10px rgba(0,0,0,0.24);
+}
+#navshadow {
+	box-shadow:  6px 0px 6px 6px rgba(0,0,0,0.12), 6px 0px 6px 6px rgba(0,0,0,0.24);
+}
