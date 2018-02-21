@@ -34,6 +34,20 @@
 	padding-right: 10px;
 	padding-bottom: 10px;
 }
+#pc {
+	color: green;
+	font-size: large;
+	font-weight: normal; 
+	text-shadow: 1px 1px 1px darkgrey;
+   /* border-bottom: 10px solid #0667CE;
+*/	border-radius: 20px;
+	box-shadow: 6px 6px 6px darkgrey;
+	background-color: #FFFFFF;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
 #shadow {
 	box-shadow:  0px 10px 10px rgba(0,0,0,0.12), 0px 10px 10px rgba(0,0,0,0.24);
 }
@@ -43,7 +57,7 @@
 
 .button {
   display: inline-block;
-  border-radius: 4px;
+  border-radius: 6px;
   background-color: #4CAF50; /* Green */
   border: none;
   color: #FFFFFF;
@@ -54,6 +68,7 @@
   transition: all 0.5s;
   cursor: pointer;
   margin: 5px;
+  /*box-shadow: 6px 6px 6px darkgrey;*/
 }
 
 .button span {
