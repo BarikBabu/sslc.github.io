@@ -38,9 +38,11 @@
 	color: green;
 	font-size: large;
 	font-weight: normal; 
-	text-shadow: 1px 1px 1px darkgrey;
-   /* border-bottom: 10px solid #0667CE;
-*/	border-radius: 20px;
+/*	text-shadow: 1px 1px 1px darkgrey;
+    border-bottom: 10px solid #0667CE;
+*/
+	border-width: thin;
+	border-radius: 20px;
 	box-shadow: 6px 6px 6px darkgrey;
 	background-color: #FFFFFF;
 	padding-top: 10px;
@@ -48,6 +50,23 @@
 	padding-right: 10px;
 	padding-bottom: 10px;
 }
+#pf {
+	/*color: black;
+	font-size: large;
+	font-weight: normal; 
+/*	text-shadow: 1px 1px 1px darkgrey;
+    border-bottom: 10px solid #0667CE;
+*/	border-left: 10px solid #0667CE;
+	border-radius: 1px;
+	border-width: medium;
+	box-shadow: 6px 6px 6px darkgrey;
+	background-color: #FFFFFF;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
 #shadow {
 	box-shadow:  0px 10px 10px rgba(0,0,0,0.12), 0px 10px 10px rgba(0,0,0,0.24);
 }
